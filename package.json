@@ -1,15 +1,15 @@
 {
-  "name": "mds",
+  "name": "main",
   "version": "1.0.0",
   "description": "",
-  "main": "index.js",
+  "main": "server.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "keywords": [],
   "author": "",
   "license": "ISC",
-  "type": "commonjs",
+  "type": "module",
   "dependencies": {
     "@prisma/client": "^6.15.0",
     "express": "^5.1.0",
